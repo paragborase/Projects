@@ -1,0 +1,4 @@
+com/springkafka/springboot/springboot/SpringBootProducerApplication.class
+com/springkafka/springboot/springboot/KafkaTopicConfig.class
+com/springkafka/springboot/springboot/WikimediaChangesProducer.class
+com/springkafka/springboot/springboot/WikimediaChangesHandler.class
